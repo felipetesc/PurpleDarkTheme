@@ -2,7 +2,10 @@
   "name": "purpledarktheme",
   "displayName": "PurpleDarkTheme",
   "description": "Relax your eyes with Purple Dark Theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "repository": "https://github.com/felipetesc/PurpleDarkTheme",
+  "publisher": "FelipeTorresini",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -14,7 +17,7 @@
       {
         "label": "Purple Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Purple Dark Theme-color-theme.json"
+        "path": "./themes/PurpleDarkTheme2-theme.json"
       }
     ]
   }
