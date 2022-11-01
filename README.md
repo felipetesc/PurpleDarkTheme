@@ -7,4 +7,3 @@ A Visual Studio Code theme to relax and prevent eye strain
 https://marketplace.visualstudio.com/items?itemName=FelipeTorresini.purpledarktheme&ssr=false#overview
 
 ![Print Screen](https://github.com/felipetesc/PurpleDarkTheme/blob/main/imgs/print.png)
->>>>>>> a3abc34c49293ab673eb305314d101582db39aac
